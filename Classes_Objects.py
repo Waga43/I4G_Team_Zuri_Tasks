@@ -1,6 +1,6 @@
 class Student:
     # [assignment] Skeleton class. Add your code here
-    ''' Ceate the dunder init method for the Student
+    ''' Create the dunder init method for the Student
     class with additional parameters as stipulated in
     the question
     '''
